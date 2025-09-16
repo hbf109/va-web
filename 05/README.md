@@ -4,4 +4,4 @@
 
 ### O que aprendi?
 
-Este vídeo me aprende como esse curso era para mim.
+Este vídeo me ensina como esse curso era para mim futuramente.
