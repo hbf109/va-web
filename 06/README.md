@@ -4,4 +4,4 @@
 
 ### O que aprendi?
 
-Esse vídeo fez a me ensinar como aprender no módulo 3.
+Esse vídeo fez a me ensinar como aprender no módulo 3 no HTML5 e também no CSS3 que pode criar e estabilizar tabelas (incluindo; efeitos zebrados e mesclagem de células).
